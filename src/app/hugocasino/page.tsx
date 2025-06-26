@@ -5,7 +5,6 @@ import { casinos } from "@/constants/casinos";
 import { notFound } from "next/navigation";
 import React, { useState, useEffect } from "react";
 import {
-  Info,
   Gift,
   CreditCard,
   ArrowUpCircle,

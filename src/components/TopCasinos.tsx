@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import Link from "next/link";
 
 import { casinos } from "@/constants/casinos";
 import { useRouter } from "next/navigation";
