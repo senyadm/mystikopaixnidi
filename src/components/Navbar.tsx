@@ -51,7 +51,7 @@ export default function Navbar() {
         {/* ─── Главное меню ─────────────────────────────────────────────── */}
         <ul
           className={`absolute md:static top-full left-0 w-full md:w-auto bg-[#5f99b8] md:bg-transparent
-            md:flex md:gap-10 font-semibold text-center transition-all duration-300
+            md:flex md:gap-10 font-semibold text-center transition-all duration-300 z-50
             ${open ? "block" : "hidden"}
           `}
         >

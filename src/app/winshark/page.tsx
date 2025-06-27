@@ -1,5 +1,6 @@
 "use client";
 
+import Head from "next/head";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import React from "react";
@@ -162,6 +163,34 @@ export default function WinsharkPage() {
   }, []);
 
   return (
+    <>
+      <Head>
+        <title>{`${name} Casino – Κορυφαίο Online Καζίνο | MystikoPaixnidi.gr`}</title>
+        <meta
+          name="description"
+          content={`Ανακαλύψτε το ${name} Casino στο MystikoPaixnidi.gr: 240% έως €2.500 + 300 δωρεάν περιστροφές, 15.000+ παιχνίδια, κρυπτονομίσματα & 24/7 υποστήριξη.`}
+        />
+        <meta name="robots" content="index, follow" />
+        <link
+          rel="canonical"
+          href="https://mystikopaixnidi.gr/winshark"
+        />
+
+        {/* Open Graph */}
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="MystikoPaixnidi.gr" />
+        <meta
+          property="og:title"
+          content={`${name} Casino – Κορυφαίο Online Καζίνο | MystikoPaixnidi.gr`}
+        />
+        <meta
+          property="og:description"
+          content={`Παίξτε στο ${name} Casino με μπόνους έως €2.500 + δωρεάν περιστροφές, 15.000+ τίτλους και VIP rewards.`}
+        />
+        <meta property="og:url" content="https://mystikopaixnidi.gr/winshark" />
+        <meta property="og:image:alt" content={`${name} Casino Banner`} />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Head>
     <section className="container mx-auto px-4 py-8">
       <div className="bg-white text-gray-900 rounded-2xl shadow p-8">
         {/* Шапка */}
@@ -500,5 +529,6 @@ export default function WinsharkPage() {
         </div>
       </div>
     </section>
+    </>
   );
 }
