@@ -25,7 +25,7 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://spinsofglory1.com/gr/",
+    url: "",
   },
   {
     slug: "casinova",
@@ -40,7 +40,7 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://casinova3.com/gr/",
+    url: "",
   },
   {
     slug: "kinbet",
@@ -56,7 +56,7 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://kinbet4.com/gr/",
+    url: "",
   },
   {
     slug: "royalgame",
@@ -71,7 +71,7 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://royalgame059413.com/gr/",
+    url: "",
   },
   {
     slug: "winshark",
@@ -87,7 +87,7 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://winshark1.com/el-gr",
+    url: "",
   },
   {
     slug: "trueluck",
@@ -102,7 +102,7 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://trueluck.com/el",
+    url: "",
   },
   {
     slug: "abuking",
@@ -118,7 +118,7 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://abuking1.com/gr/",
+    url: "",
   },
   {
     slug: "romibet",
@@ -133,7 +133,7 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://romibet1.com/gr/",
+    url: "",
   },
   {
     slug: "snatch",
@@ -148,7 +148,7 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://snatchcasino.io/",
+    url: "",
   },
   {
     slug: "hugocasino",
@@ -163,6 +163,6 @@ export const casinos: Casino[] = [
       "Υποστήριξη κρυπτονομισμάτων",
       "Ζωντανή υποστήριξη 24/7",
     ],
-    url: "https://hugocasino07.com/el-gr",
+    url: "",
   },
 ];
